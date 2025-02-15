@@ -1,0 +1,49 @@
+{
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-28 16:04:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-28 16:04:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-28 16:04:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-28 16:02:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_cold_ocean": "2024-12-28 16:05:06 +0700",
+      "minecraft:cold_ocean": "2024-12-28 16:04:59 +0700",
+      "minecraft:beach": "2024-12-28 16:04:57 +0700",
+      "minecraft:meadow": "2024-12-28 16:02:53 +0700",
+      "minecraft:plains": "2024-12-28 16:04:53 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-28 16:04:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-28 16:04:28 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
